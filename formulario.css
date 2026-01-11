@@ -1,0 +1,11 @@
+body{
+    color: white; 
+    background-color: rgb(34, 34, 34);
+
+}
+.anclainicio{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    display: flex;
+}

@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(34, 34, 34);
+    color: white;
+}
+/*
+.imgenergiasrenovables{
+    height: 250px;
+    width: auto;
+    border-radius: 2%;
+}
+.panelyaerogenerador{
+    height: 250px;
+    width: auto;
+    border-radius: 2%;   
+}
+.imgpuntosreciclaje{
+    height: 250px;
+    width: auto;
+    border-radius: 2%;   
+}
+*/
+
+img{
+    height: 250px;
+    width: auto;
+    border-radius: 2%;
+}
+
+
+table{
+            border: 1px solid white;
+}
+th{
+    border: 1px solid white;
+}
+td{
+    border: 1px solid white;
+}
+table{
+    width: 50%;
+}
+.anclainicio{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    display: flex;
+}
